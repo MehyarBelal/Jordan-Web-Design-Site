@@ -52,7 +52,7 @@ h4{
 
 }
 
-img{
+.shoe{
     position: absolute;
    top:4.5rem;
    left:0;
@@ -123,7 +123,8 @@ li{
     color:#C11810;
 }
 
-ul img{
+.air {
     width: 30px;
     height:30px;
+line-height: 30px;
 }
