@@ -137,3 +137,8 @@ margin-right: 50px;
 .buttons{
     margin-top:1rem;
 }
+
+li:hover{
+    border-bottom: 2px solid #C11810;
+    cursor: pointer;
+}
