@@ -139,6 +139,6 @@ margin-right: 50px;
 }
 
 li:hover{
-    border-bottom: 2px solid #C11810;
+   color: #C11810;
     cursor: pointer;
 }
