@@ -106,11 +106,11 @@ li{
 .right i{
     background-color: rgb(255, 255, 255);
     color: black;
-    margin-top: 13rem;
+    margin-top: 15rem;
     font-size: 1.4em; 
-    padding: .8rem;
+    padding: .4rem;
   
-    border-radius: 50%;
+    border-radius: 3px;
  margin-right: 1.5rem;
  height: 20px;
  width: 20px;
@@ -121,4 +121,9 @@ li{
 
 .right i:hover{
     color:#C11810;
+}
+
+ul img{
+    width: 30px;
+    height:30px;
 }
