@@ -115,5 +115,10 @@ li{
  height: 20px;
  width: 20px;
    
-   
+ transition: .4s all;  
+ cursor: pointer;
+}
+
+.right i:hover{
+    color:#C11810;
 }
