@@ -83,8 +83,8 @@ font-weight: bold;
 }
 
 .btn1{
-    border: 1px solid #C11810;
-
+    margin-left: .5rem;
+background-color: white;
     color: #C11810;
 }
 
